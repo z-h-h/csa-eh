@@ -1,0 +1,7 @@
+[
+    {
+        "command": "g++ -c example.cpp",
+        "directory": "/absolute/path/to/xxx/example",
+        "file": "example.cpp"
+    }
+]
